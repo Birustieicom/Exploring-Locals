@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\ExploringLocals\ExploringLocals\bin\Debug\net8.0\ExploringLocals.exe
+C:\Users\Aluno\source\repos\ExploringLocals\ExploringLocals\bin\Debug\net8.0\ExploringLocals.deps.json
+C:\Users\Aluno\source\repos\ExploringLocals\ExploringLocals\bin\Debug\net8.0\ExploringLocals.runtimeconfig.json
+C:\Users\Aluno\source\repos\ExploringLocals\ExploringLocals\bin\Debug\net8.0\ExploringLocals.dll
+C:\Users\Aluno\source\repos\ExploringLocals\ExploringLocals\bin\Debug\net8.0\ExploringLocals.pdb
+C:\Users\Aluno\source\repos\ExploringLocals\ExploringLocals\obj\Debug\net8.0\ExploringLocals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\ExploringLocals\ExploringLocals\obj\Debug\net8.0\ExploringLocals.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\ExploringLocals\ExploringLocals\obj\Debug\net8.0\ExploringLocals.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\ExploringLocals\ExploringLocals\obj\Debug\net8.0\ExploringLocals.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ExploringLocals\ExploringLocals\obj\Debug\net8.0\ExploringLocals.dll
+C:\Users\Aluno\source\repos\ExploringLocals\ExploringLocals\obj\Debug\net8.0\refint\ExploringLocals.dll
+C:\Users\Aluno\source\repos\ExploringLocals\ExploringLocals\obj\Debug\net8.0\ExploringLocals.pdb
+C:\Users\Aluno\source\repos\ExploringLocals\ExploringLocals\obj\Debug\net8.0\ExploringLocals.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\ExploringLocals\ExploringLocals\obj\Debug\net8.0\ref\ExploringLocals.dll
